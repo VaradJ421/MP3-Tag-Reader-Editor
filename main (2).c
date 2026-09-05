@@ -1,5 +1,5 @@
 /*
-Name : Shubham Maroti Jagtap
+Name : Varad Umesh Jinturkar
 Project Name: MP3 Tag Reader/Editor
 description :   This project is an MP3 Tag Reader and Editor developed using C programming. 
                 It works with ID3v2 tags present in MP3 files to read and modify metadata such as title, 
